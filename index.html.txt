@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Debmalya</h1>
+<p>Welcome to my Portfolio</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<p>I am an first year student interested in Cloud Computing.And please dont terminate me.Iam a beginner</p>
+</section>
+
+<section id="projects">
+<h2>Projects</h2>
+<ul>
+<li>Portfolio Website</li>
+<li>C Programming Projects</li>
+<li>Physics Assignment Projects</li>
+</ul>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: 2505407@kiit.ac.in</p>
+</section>
+
+<footer>
+<p>© 2026 Debmalya</p>
+</footer>
+
+</body>
+</html>
